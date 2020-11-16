@@ -8,7 +8,7 @@ const Line = () => {
   const setup = (p5, canvasParentRef) => {
     // use parent to render the canvas in this ref
     // (without that p5 will render the canvas outside of your component)
-    p5.createCanvas(500, 5).parent(canvasParentRef)
+    p5.createCanvas(800, 5).parent(canvasParentRef)
     p5.colorMode(p5.HSB)
     p5.noStroke()
     p5.background(0)

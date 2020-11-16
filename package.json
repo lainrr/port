@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
-  "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "name": "lain-port",
+  "private": false,
+  "description": "in process portfolio",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Lain Bader",
   "dependencies": {
     "gatsby": "^2.25.3",
     "gatsby-image": "^2.4.21",
@@ -37,7 +37,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/lainrr/port"
   },
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
